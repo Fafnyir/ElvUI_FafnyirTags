@@ -7,5 +7,6 @@
 ## Version: v1.0.0
 ## OptionalDeps: ElvUI
 ## DefaultState: enabled
+## X-Wago-ID: ZKbxY4N1
 
 ElvUI_FafnyirTags.lua
