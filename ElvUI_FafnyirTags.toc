@@ -1,9 +1,9 @@
 ## Interface: 120000, 120001
-## Title: FafnyirTags
+## Title: ElvUI_FafnyirTags
 ## Notes: Custom ElvUI text tags
 ## Author: Fafnyir
 ## Version: v1.0.0
 ## OptionalDeps: ElvUI
 ## DefaultState: enabled
 
-FafnyirTags.lua
+ElvUI_FafnyirTags.lua
